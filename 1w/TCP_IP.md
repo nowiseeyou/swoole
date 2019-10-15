@@ -16,6 +16,8 @@ TCP/IP协议族是一个四层协议系统，自底而上分别是数据链路�
 - **OSPF**(Open Shorttest Path First) ： 开放最短路径优先
 - **TCP**协议(Transmission Control Protocol) ： 传输控制协议
 - **NIS**(Network Information Service) ： 网络信息服务
+- **BGP**(Border Gateway Protocol) ： 边际网关协议
+- **RIP**(Routing Information Protocol) ： 路由信息协议
 
 
 
